@@ -1,0 +1,5 @@
+C:\Users\NewbSmasher\Documents\Visual Studio 2010\Projects\AssignmentFour\AssignmentFour\bin\Debug\AssignmentFour.exe
+C:\Users\NewbSmasher\Documents\Visual Studio 2010\Projects\AssignmentFour\AssignmentFour\bin\Debug\AssignmentFour.pdb
+C:\Users\NewbSmasher\Documents\Visual Studio 2010\Projects\AssignmentFour\AssignmentFour\obj\x86\Debug\AssignmentFour.exe
+C:\Users\NewbSmasher\Documents\Visual Studio 2010\Projects\AssignmentFour\AssignmentFour\obj\x86\Debug\AssignmentFour.pdb
+C:\Users\NewbSmasher\Documents\Visual Studio 2010\Projects\AssignmentFour\AssignmentFour\obj\x86\Debug\AssignmentFour.csprojResolveAssemblyReference.cache
